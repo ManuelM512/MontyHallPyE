@@ -9,7 +9,7 @@ simulation.py
 Este archivo ejecuta la simulación del problema de Monty Hall. Incluye funciones para simular las rondas del juego, o simular una ronda con diálogos del juego, y calcular estadísticas sobre los resultados.
 
 ## Instrucciones
-Para ejecutar la simulación, ejecuta la función game_sim(iterations) en simulation.py. Puedes especificar el número de iteraciones del juego a simular pasando el número deseado como argumento a game_sim.
+Para ejecutar la simulación, ejecuta la función game_sim(iterations) en simulation.py. Debes especificar el número de iteraciones del juego a simular pasando el número deseado como argumento a game_sim.
 
 ## Ejemplo:
 
